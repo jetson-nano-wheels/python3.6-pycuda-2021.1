@@ -1,0 +1,8 @@
+[build-system]
+requires = [
+    "setuptools",
+    "wheel"
+]
+
+# Note, unlike the other Jetson Nano wheels projects, this line must NOT BE USED:
+# build-backend = "setuptools.build_meta"
